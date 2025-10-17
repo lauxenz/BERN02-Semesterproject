@@ -6,8 +6,8 @@ This project aims to predict whether a seismic event is classified as "strong" b
 
 ##  Data Sources
 The project utilizes two distinct datasets. For detailed metadata on each dataset, please refer to the files linked below:
-* **[Seismic Events Data](./events_metadata.md)**: Contains detailed information about each seismic event.
-* **[Weather Data](./weather_metadata.md)**: Provides weather information corresponding to the event locations and times.
+* **[Seismic Events Data](./data/events_metadata.md)**: Contains detailed information about each seismic event.
+* **[Weather Data](./data/weather_metadata.md)**: Provides weather information corresponding to the event locations and times.
 
   
 ##  Methodology
