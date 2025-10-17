@@ -48,7 +48,7 @@ Based on the coefficients of the Logistic Regression model, the top five most in
 To run this project, clone the repository and ensure all necessary dependencies are installed.
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/lauxenz/BERN02-Semesterproject.git](https://github.com/YOUR_USERNAME/BERN02-Semesterproject.git)
+    git clone [https://github.com/lauxenz/BERN02-Semesterproject.git](https://github.com/lauxenz/BERN02-Semesterproject.git)
     ```
 2.  **Install Dependencies:**
     ```bash
