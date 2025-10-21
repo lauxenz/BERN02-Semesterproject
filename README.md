@@ -55,7 +55,7 @@ To run this project, clone the repository and ensure all necessary dependencies 
     pip install -r requirements.txt
     ```
 3.  **Run the Jupyter Notebook:**
-    Open and execute the cells in the `workflow.ipynb` notebook.
+    Open and execute the cells in the `project.ipynb` notebook.
 ##  Dependencies
 * `numpy`
 * `pandas`
